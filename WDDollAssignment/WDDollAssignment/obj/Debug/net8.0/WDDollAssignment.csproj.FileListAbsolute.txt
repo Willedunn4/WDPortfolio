@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\bin\Debug\net8.0\WDDollAssignment.exe
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\bin\Debug\net8.0\WDDollAssignment.deps.json
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\bin\Debug\net8.0\WDDollAssignment.runtimeconfig.json
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\bin\Debug\net8.0\WDDollAssignment.dll
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\bin\Debug\net8.0\WDDollAssignment.pdb
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.dll
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\refint\WDDollAssignment.dll
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.pdb
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\WDDollAssignment.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDDollAssignment\WDDollAssignment\obj\Debug\net8.0\ref\WDDollAssignment.dll
