@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\bin\Debug\net8.0\WDBagProject.exe
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\bin\Debug\net8.0\WDBagProject.deps.json
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\bin\Debug\net8.0\WDBagProject.runtimeconfig.json
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\bin\Debug\net8.0\WDBagProject.dll
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\bin\Debug\net8.0\WDBagProject.pdb
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.dll
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\refint\WDBagProject.dll
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.pdb
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\WDBagProject.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDBagProject\WDBagProject\obj\Debug\net8.0\ref\WDBagProject.dll
