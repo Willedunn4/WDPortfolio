@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\bin\Debug\net8.0\WDFisherYatesShuffle.exe
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\bin\Debug\net8.0\WDFisherYatesShuffle.deps.json
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\bin\Debug\net8.0\WDFisherYatesShuffle.runtimeconfig.json
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\bin\Debug\net8.0\WDFisherYatesShuffle.dll
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\bin\Debug\net8.0\WDFisherYatesShuffle.pdb
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.dll
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\refint\WDFisherYatesShuffle.dll
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.pdb
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\WDFisherYatesShuffle.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDFisherYatesShuffle\WDFisherYatesShuffle\obj\Debug\net8.0\ref\WDFisherYatesShuffle.dll
