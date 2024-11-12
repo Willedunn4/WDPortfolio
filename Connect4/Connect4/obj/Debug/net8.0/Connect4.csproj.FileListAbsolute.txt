@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\Connect4\Connect4\bin\Debug\net8.0\Connect4.exe
+C:\Users\wille\source\repos\Connect4\Connect4\bin\Debug\net8.0\Connect4.deps.json
+C:\Users\wille\source\repos\Connect4\Connect4\bin\Debug\net8.0\Connect4.runtimeconfig.json
+C:\Users\wille\source\repos\Connect4\Connect4\bin\Debug\net8.0\Connect4.dll
+C:\Users\wille\source\repos\Connect4\Connect4\bin\Debug\net8.0\Connect4.pdb
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.AssemblyInfo.cs
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.dll
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\refint\Connect4.dll
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.pdb
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\Connect4.genruntimeconfig.cache
+C:\Users\wille\source\repos\Connect4\Connect4\obj\Debug\net8.0\ref\Connect4.dll
