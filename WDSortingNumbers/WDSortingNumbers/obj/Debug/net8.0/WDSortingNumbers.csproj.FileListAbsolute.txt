@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\bin\Debug\net8.0\WDSortingNumbers.exe
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\bin\Debug\net8.0\WDSortingNumbers.deps.json
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\bin\Debug\net8.0\WDSortingNumbers.runtimeconfig.json
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\bin\Debug\net8.0\WDSortingNumbers.dll
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\bin\Debug\net8.0\WDSortingNumbers.pdb
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.dll
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\refint\WDSortingNumbers.dll
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.pdb
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\WDSortingNumbers.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDSortingNumbers\WDSortingNumbers\obj\Debug\net8.0\ref\WDSortingNumbers.dll
