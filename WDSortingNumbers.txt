@@ -1,0 +1,93 @@
+Selection Sort
+Original List:
+18, 52, 45, 93, 35, 46, 92, 2, 50, 35
+
+Pass 1: Find the smallest number (2) and swap it with the first element (18).
+Result: 2, 52, 45, 93, 35, 46, 92, 18, 50, 35
+
+Pass 2: Find the smallest number in the remaining unsorted list (18) and place it in the second position.
+Result: 2, 18, 45, 93, 35, 46, 92, 52, 50, 35
+
+Pass 3: Find the smallest number in the remaining unsorted list (35) and place it in the third position.
+Result: 2, 18, 35, 93, 45, 46, 92, 52, 50, 35
+
+Pass 4: Find the smallest number in the remaining unsorted list (35 again) and place it in the fourth position.
+Result: 2, 18, 35, 35, 45, 46, 92, 52, 50, 93
+
+Pass 5: Find the smallest number in the remaining unsorted list (45) and place it in the fifth position.
+Result: 2, 18, 35, 35, 45, 46, 92, 52, 50, 93
+
+Pass 6: Find the smallest number in the remaining unsorted list (46) and place it in the sixth position.
+Result: 2, 18, 35, 35, 45, 46, 92, 52, 50, 93
+
+Pass 7: Find the smallest number in the remaining unsorted list (50) and place it in the seventh position.
+Result: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Pass 8: Find the smallest number in the remaining unsorted list (52) and place it in the eighth position.
+Result: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Pass 9: The last two elements are already sorted (92 and 93).
+
+Final List: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Insertion Sort
+Original List:
+18, 52, 45, 93, 35, 46, 92, 2, 50, 35
+
+Pass 1: Compare the second element (52) with the first (18). No changes needed.
+Result: 18, 52, 45, 93, 35, 46, 92, 2, 50, 35
+
+Pass 2: Insert 45 in the correct position in the sorted part of the list (18, 52).
+Result: 18, 45, 52, 93, 35, 46, 92, 2, 50, 35
+
+Pass 3: Insert 93 in the correct position (it remains at the end).
+Result: 18, 45, 52, 93, 35, 46, 92, 2, 50, 35
+
+Pass 4: Insert 35 in the correct position in the sorted part (18, 45, 52, 93).
+Result: 18, 35, 45, 52, 93, 46, 92, 2, 50, 35
+
+Pass 5: Insert 46 in the correct position in the sorted part (18, 35, 45, 52, 93).
+Result: 18, 35, 45, 46, 52, 93, 92, 2, 50, 35
+
+Pass 6: Insert 92 in the correct position in the sorted part (18, 35, 45, 46, 52, 93).
+Result: 18, 35, 45, 46, 52, 92, 93, 2, 50, 35
+
+Pass 7: Insert 2 in the correct position in the sorted part (18, 35, 45, 46, 52, 92, 93).
+Result: 2, 18, 35, 45, 46, 52, 92, 93, 50, 35
+
+Pass 8: Insert 50 in the correct position in the sorted part (2, 18, 35, 45, 46, 52, 92, 93).
+Result: 2, 18, 35, 45, 46, 50, 52, 92, 93, 35
+
+Pass 9: Insert 35 in the correct position in the sorted part (2, 18, 35, 45, 46, 50, 52, 92, 93).
+Result: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Final List: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Bubble Sort
+Original List:
+18, 52, 45, 93, 35, 46, 92, 2, 50, 35
+
+Pass 1: Compare adjacent elements and swap if needed.
+Result: 18, 45, 52, 35, 46, 92, 2, 50, 35, 93
+
+Pass 2: Repeat the process for the unsorted portion.
+Result: 18, 45, 35, 46, 52, 2, 50, 35, 92, 93
+
+Pass 3: Repeat again for the unsorted portion.
+Result: 18, 35, 45, 46, 2, 50, 35, 52, 92, 93
+
+Pass 4: Continue repeating.
+Result: 18, 35, 45, 2, 46, 35, 50, 52, 92, 93
+
+Pass 5:
+Result: 18, 35, 2, 45, 35, 46, 50, 52, 92, 93
+
+Pass 6:
+Result: 18, 2, 35, 35, 45, 46, 50, 52, 92, 93
+
+Pass 7:
+Result: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
+
+Pass 8: The list is already sorted, so no further swaps are needed.
+
+Final List: 2, 18, 35, 35, 45, 46, 50, 52, 92, 93
