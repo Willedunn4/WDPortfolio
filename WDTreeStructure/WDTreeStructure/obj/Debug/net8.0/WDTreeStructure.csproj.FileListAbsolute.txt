@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\bin\Debug\net8.0\WDTreeStructure.exe
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\bin\Debug\net8.0\WDTreeStructure.deps.json
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\bin\Debug\net8.0\WDTreeStructure.runtimeconfig.json
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\bin\Debug\net8.0\WDTreeStructure.dll
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\bin\Debug\net8.0\WDTreeStructure.pdb
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.dll
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\refint\WDTreeStructure.dll
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.pdb
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\WDTreeStructure.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDTreeStructure\WDTreeStructure\obj\Debug\net8.0\ref\WDTreeStructure.dll
